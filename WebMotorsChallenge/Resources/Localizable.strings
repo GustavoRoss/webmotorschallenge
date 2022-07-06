@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  WebMotorsChallenge
+
+  Created by Gustavo Henriques on 06/07/22.
+  
+*/
+"vehicles" = "Vehicles";
+"vehicleDetail" = "Vehicle Detail";
